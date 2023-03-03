@@ -1,0 +1,9 @@
+com\demo\service\ComplexAction.class
+com\demo\ds\Report.class
+com\demo\logger\PerformanceLogger.class
+com\demo\logger\PerformanceLogger$PerformanceInfo.class
+com\demo\dao\ReportDao.class
+com\demo\repository\ReportProvider.class
+com\demo\format\ReportFormatter.class
+com\demo\Main.class
+com\demo\AppConfig.class
