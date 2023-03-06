@@ -11,6 +11,7 @@
     <modules>
         <module>no-aop</module>
         <module>with-aop</module>
+        <module>aop-pointcup</module>
     </modules>
 
     <properties>

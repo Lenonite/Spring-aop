@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="with-aop" />
         <module name="no-aop" />
+        <module name="aop-pointcup" />
       </profile>
     </annotationProcessing>
   </component>
