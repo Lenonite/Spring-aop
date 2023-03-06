@@ -12,6 +12,7 @@
         <module>no-aop</module>
         <module>with-aop</module>
         <module>aop-pointcup</module>
+        <module>limit-proxy</module>
     </modules>
 
     <properties>

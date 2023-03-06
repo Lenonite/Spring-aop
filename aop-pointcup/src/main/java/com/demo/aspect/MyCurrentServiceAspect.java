@@ -39,7 +39,7 @@ public class MyCurrentServiceAspect {
 //    @Before("argPointcut()")
     @Pointcut("@target(com.demo.annotation.Secured)")
     public void targetPointcut(){}
-    @Pointcut("execution(public void com.demo.service.MyCurrencyService.changeCurrency(..))")
+    @Pointcut("execution(public void  *.*changeCurrency(..))")
     public void  changeCurrencyPoint(){}
     @Before("changeCurrencyPoint()")
     public void executionBeforeAdvice(JoinPoint joinPoint){
